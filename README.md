@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunk3rn
-- 👀 I’m interested in ...Tech
-- 🌱 I’m currently learning ...Linux 
+- 👀 I’m interested in ...FOSS
+- 🌱 I’m currently learning ...Ansible 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sunk3rn#3083
 
