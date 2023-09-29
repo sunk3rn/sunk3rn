@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sunk3rn
-- 👀 I’m interested in ...FOSS
-- 🌱 I’m currently learning ...Kotlin 
-- 📫 How to reach me ... @sunk3rn - discord
+- 👀 I’m interested in ... FOSS
+- 🌱 I’m currently learning ... Kotlin 
+- 📫 How to reach me ... discord: @sunk3rn
